@@ -1,0 +1,1 @@
+this project is kind of like a notepad where we will be able to write texts and access it whenever we need it . THANK YOU !!
